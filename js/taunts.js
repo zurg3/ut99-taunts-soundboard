@@ -1,4 +1,4 @@
-var taunts = {
+const taunts = {
   'M1': [
     {
       'original': 'Eat that!',
